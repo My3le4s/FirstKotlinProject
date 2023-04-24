@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0651755a-1c25-487e-9f38-0c3311edd8f5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Datatypes.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,16 +39,37 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.VariablesKt">
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
+  <component name="RunManager" selected="Kotlin.DowhileloopKt">
+    <configuration name="DowhileloopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DowhileloopKt" />
       <module name="kotlin_weekone" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
+    <configuration name="EX2ifstatementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="EX2ifstatementKt" />
+      <module name="kotlin_weekone" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExifstatementKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExifstatementKt" />
+      <module name="kotlin_weekone" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForloopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ForloopKt" />
+      <module name="kotlin_weekone" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileloopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileloopKt" />
       <module name="kotlin_weekone" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,8 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.VariablesKt" />
-        <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.DowhileloopKt" />
+        <item itemvalue="Kotlin.WhileloopKt" />
+        <item itemvalue="Kotlin.ForloopKt" />
+        <item itemvalue="Kotlin.EX2ifstatementKt" />
+        <item itemvalue="Kotlin.ExifstatementKt" />
       </list>
     </recent_temporary>
   </component>
